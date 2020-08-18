@@ -58,25 +58,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Abdul\\.nuget\\packages\\": {},
+    "C:\\Users\\FlemmingBlaabjerg\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Abdul\\Documents\\UNI\\6_Semester\\KPUEKSAMEN\\Spoergsmaal_FIRE\\DependencyInjection\\DependencyInjection\\DependencyInjection.csproj",
+      "projectUniqueName": "C:\\Users\\FlemmingBlaabjerg\\Documents\\AB_Skole\\ITKPU\\Eksamen\\Code_Presentations\\04_DepInj\\DependencyInjection\\DependencyInjection\\DependencyInjection.csproj",
       "projectName": "DependencyInjection",
-      "projectPath": "C:\\Users\\Abdul\\Documents\\UNI\\6_Semester\\KPUEKSAMEN\\Spoergsmaal_FIRE\\DependencyInjection\\DependencyInjection\\DependencyInjection.csproj",
-      "packagesPath": "C:\\Users\\Abdul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Abdul\\Documents\\UNI\\6_Semester\\KPUEKSAMEN\\Spoergsmaal_FIRE\\DependencyInjection\\DependencyInjection\\obj\\",
+      "projectPath": "C:\\Users\\FlemmingBlaabjerg\\Documents\\AB_Skole\\ITKPU\\Eksamen\\Code_Presentations\\04_DepInj\\DependencyInjection\\DependencyInjection\\DependencyInjection.csproj",
+      "packagesPath": "C:\\Users\\FlemmingBlaabjerg\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\FlemmingBlaabjerg\\Documents\\AB_Skole\\ITKPU\\Eksamen\\Code_Presentations\\04_DepInj\\DependencyInjection\\DependencyInjection\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Abdul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\FlemmingBlaabjerg\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -121,7 +121,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

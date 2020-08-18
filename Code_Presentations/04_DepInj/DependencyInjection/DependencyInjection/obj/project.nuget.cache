@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XRpUXWQinGyMpS/AlgMgVdH7AbUOel1IVHmYYPywNLtmkZIk5/l4D+U2QJMf0aDF0PYM8zsuf8eK8seld620rA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FlemmingBlaabjerg\\Documents\\AB_Skole\\ITKPU\\Eksamen\\Code_Presentations\\04_DepInj\\DependencyInjection\\DependencyInjection\\DependencyInjection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FlemmingBlaabjerg\\.nuget\\packages\\system.componentmodel.composition\\4.7.0\\system.componentmodel.composition.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
