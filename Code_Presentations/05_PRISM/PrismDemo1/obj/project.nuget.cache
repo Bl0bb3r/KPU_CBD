@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "PtGdtZiKek37qQBlp9BliGTfEox/Zczh9zo4zxOCdqz44ZHjcS4QeAyQObIwG+Er4IFAZbsamzO9nS08j75QAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FlemmingBlaabjerg\\Documents\\AB_Skole\\ITKPU\\Eksamen\\Code_Presentations\\05_PRISM\\PrismDemo1\\PrismDemo1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FlemmingBlaabjerg\\.nuget\\packages\\commonservicelocator\\2.0.4\\commonservicelocator.2.0.4.nupkg.sha512",
+    "C:\\Users\\FlemmingBlaabjerg\\.nuget\\packages\\prism.core\\7.2.0.1422\\prism.core.7.2.0.1422.nupkg.sha512",
+    "C:\\Users\\FlemmingBlaabjerg\\.nuget\\packages\\prism.unity\\7.2.0.1422\\prism.unity.7.2.0.1422.nupkg.sha512",
+    "C:\\Users\\FlemmingBlaabjerg\\.nuget\\packages\\prism.wpf\\7.2.0.1422\\prism.wpf.7.2.0.1422.nupkg.sha512",
+    "C:\\Users\\FlemmingBlaabjerg\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\FlemmingBlaabjerg\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512",
+    "C:\\Users\\FlemmingBlaabjerg\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
+    "C:\\Users\\FlemmingBlaabjerg\\.nuget\\packages\\unity.abstractions\\5.11.1\\unity.abstractions.5.11.1.nupkg.sha512",
+    "C:\\Users\\FlemmingBlaabjerg\\.nuget\\packages\\unity.container\\5.11.1\\unity.container.5.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}

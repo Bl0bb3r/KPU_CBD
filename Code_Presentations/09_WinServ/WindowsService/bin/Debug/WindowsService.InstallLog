@@ -200,3 +200,16 @@ De berørte parametre er:
    logtoconsole = 
    logfile = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog
    assemblypath = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe
+Installerer assemblyen 'C:\Users\FlemmingBlaabjerg\Documents\AB_Skole\ITKPU\Eksamen\Code_Presentations\09_WinServ\WindowsService\bin\Debug\WindowsService.exe'.
+De berørte parametre er:
+   logtoconsole = 
+   logfile = C:\Users\FlemmingBlaabjerg\Documents\AB_Skole\ITKPU\Eksamen\Code_Presentations\09_WinServ\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\FlemmingBlaabjerg\Documents\AB_Skole\ITKPU\Eksamen\Code_Presentations\09_WinServ\WindowsService\bin\Debug\WindowsService.exe
+Installerer tjenesten KPUService...
+Tjenesten KPUService blev installeret.
+Opretter EventLog-kilden KPUService i logfilen Application...
+Bekræfter assemblyen 'C:\Users\FlemmingBlaabjerg\Documents\AB_Skole\ITKPU\Eksamen\Code_Presentations\09_WinServ\WindowsService\bin\Debug\WindowsService.exe'.
+De berørte parametre er:
+   logtoconsole = 
+   logfile = C:\Users\FlemmingBlaabjerg\Documents\AB_Skole\ITKPU\Eksamen\Code_Presentations\09_WinServ\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\FlemmingBlaabjerg\Documents\AB_Skole\ITKPU\Eksamen\Code_Presentations\09_WinServ\WindowsService\bin\Debug\WindowsService.exe

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "M1FwJI01tKzhGHSibGeMYsBPojGsYWQovzL7pmMyfEHcjtm8zzjmd3M0WVI4pVzwn6ttfJOg8gHGL7Bv6bhJiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FlemmingBlaabjerg\\Documents\\AB_Skole\\ITKPU\\Eksamen\\Code_Presentations\\05_PRISM\\LocationModule\\LocationModule.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FlemmingBlaabjerg\\.nuget\\packages\\commonservicelocator\\2.0.4\\commonservicelocator.2.0.4.nupkg.sha512",
+    "C:\\Users\\FlemmingBlaabjerg\\.nuget\\packages\\prism.core\\7.2.0.1422\\prism.core.7.2.0.1422.nupkg.sha512",
+    "C:\\Users\\FlemmingBlaabjerg\\.nuget\\packages\\prism.wpf\\7.2.0.1422\\prism.wpf.7.2.0.1422.nupkg.sha512",
+    "C:\\Users\\FlemmingBlaabjerg\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

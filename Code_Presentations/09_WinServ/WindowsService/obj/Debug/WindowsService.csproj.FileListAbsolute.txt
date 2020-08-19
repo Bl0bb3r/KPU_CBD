@@ -8,3 +8,13 @@ C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService
 C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\obj\Debug\WindowsService.csproj.CoreCompileInputs.cache
 C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\obj\Debug\WindowsService.exe
 C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\obj\Debug\WindowsService.pdb
+C:\Users\FlemmingBlaabjerg\Documents\AB_Skole\ITKPU\Eksamen\Code_Presentations\09_WinServ\WindowsService\bin\Debug\WindowsService.exe.config
+C:\Users\FlemmingBlaabjerg\Documents\AB_Skole\ITKPU\Eksamen\Code_Presentations\09_WinServ\WindowsService\bin\Debug\WindowsService.exe
+C:\Users\FlemmingBlaabjerg\Documents\AB_Skole\ITKPU\Eksamen\Code_Presentations\09_WinServ\WindowsService\bin\Debug\WindowsService.pdb
+C:\Users\FlemmingBlaabjerg\Documents\AB_Skole\ITKPU\Eksamen\Code_Presentations\09_WinServ\WindowsService\obj\Debug\WindowsService.csprojAssemblyReference.cache
+C:\Users\FlemmingBlaabjerg\Documents\AB_Skole\ITKPU\Eksamen\Code_Presentations\09_WinServ\WindowsService\obj\Debug\WindowsService.KPUService.resources
+C:\Users\FlemmingBlaabjerg\Documents\AB_Skole\ITKPU\Eksamen\Code_Presentations\09_WinServ\WindowsService\obj\Debug\WindowsService.ProjectInstaller.resources
+C:\Users\FlemmingBlaabjerg\Documents\AB_Skole\ITKPU\Eksamen\Code_Presentations\09_WinServ\WindowsService\obj\Debug\WindowsService.csproj.GenerateResource.cache
+C:\Users\FlemmingBlaabjerg\Documents\AB_Skole\ITKPU\Eksamen\Code_Presentations\09_WinServ\WindowsService\obj\Debug\WindowsService.csproj.CoreCompileInputs.cache
+C:\Users\FlemmingBlaabjerg\Documents\AB_Skole\ITKPU\Eksamen\Code_Presentations\09_WinServ\WindowsService\obj\Debug\WindowsService.exe
+C:\Users\FlemmingBlaabjerg\Documents\AB_Skole\ITKPU\Eksamen\Code_Presentations\09_WinServ\WindowsService\obj\Debug\WindowsService.pdb

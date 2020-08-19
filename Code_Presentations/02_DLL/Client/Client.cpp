@@ -4,7 +4,6 @@
 #include "pch.h"
 #include <iostream>
 #include "DLL.h"
-
 int main()
 {
     std::cout << "Hello World!\n";

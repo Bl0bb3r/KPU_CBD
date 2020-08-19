@@ -1,0 +1,4 @@
+C:\Users\FlemmingBlaabjerg\Documents\AB_Skole\ITKPU\Eksamen\Code_Presentations\03_DOTNET\DotNETComponent\CprCheck_Test\obj\Debug\netcoreapp3.1\CprCheck_Test.csprojAssemblyReference.cache
+C:\Users\FlemmingBlaabjerg\Documents\AB_Skole\ITKPU\Eksamen\Code_Presentations\03_DOTNET\DotNETComponent\CprCheck_Test\obj\Debug\netcoreapp3.1\CprCheck_Test.csproj.CoreCompileInputs.cache
+C:\Users\FlemmingBlaabjerg\Documents\AB_Skole\ITKPU\Eksamen\Code_Presentations\03_DOTNET\DotNETComponent\CprCheck_Test\obj\Debug\netcoreapp3.1\CprCheck_Test.AssemblyInfoInputs.cache
+C:\Users\FlemmingBlaabjerg\Documents\AB_Skole\ITKPU\Eksamen\Code_Presentations\03_DOTNET\DotNETComponent\CprCheck_Test\obj\Debug\netcoreapp3.1\CprCheck_Test.AssemblyInfo.cs

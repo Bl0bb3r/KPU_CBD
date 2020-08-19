@@ -6,3 +6,12 @@ C:\Users\abdul\Documents\UNI\KPU\KPUEKSAMEN\Spoergsmaal_TRE\CprDLLShared\obj\Deb
 C:\Users\abdul\Documents\UNI\KPU\KPUEKSAMEN\Spoergsmaal_TRE\CprDLLShared\obj\Debug\netcoreapp3.1\CprDLLShared.csproj.CoreCompileInputs.cache
 C:\Users\abdul\Documents\UNI\KPU\KPUEKSAMEN\Spoergsmaal_TRE\CprDLLShared\obj\Debug\netcoreapp3.1\CprDLLShared.dll
 C:\Users\abdul\Documents\UNI\KPU\KPUEKSAMEN\Spoergsmaal_TRE\CprDLLShared\obj\Debug\netcoreapp3.1\CprDLLShared.pdb
+C:\Users\FlemmingBlaabjerg\Documents\AB_Skole\ITKPU\Eksamen\Code_Presentations\03_DOTNET\CprDLLShared\obj\Debug\netcoreapp3.1\CprDLLShared.csprojAssemblyReference.cache
+C:\Users\FlemmingBlaabjerg\Documents\AB_Skole\ITKPU\Eksamen\Code_Presentations\03_DOTNET\CprDLLShared\obj\Debug\netcoreapp3.1\CprDLLShared.csproj.CoreCompileInputs.cache
+C:\Users\FlemmingBlaabjerg\Documents\AB_Skole\ITKPU\Eksamen\Code_Presentations\03_DOTNET\CprDLLShared\obj\Debug\netcoreapp3.1\CprDLLShared.AssemblyInfoInputs.cache
+C:\Users\FlemmingBlaabjerg\Documents\AB_Skole\ITKPU\Eksamen\Code_Presentations\03_DOTNET\CprDLLShared\obj\Debug\netcoreapp3.1\CprDLLShared.AssemblyInfo.cs
+C:\Users\FlemmingBlaabjerg\Documents\AB_Skole\ITKPU\Eksamen\Code_Presentations\03_DOTNET\CprDLLShared\obj\Debug\netcoreapp3.1\CprDLLShared.dll
+C:\Users\FlemmingBlaabjerg\Documents\AB_Skole\ITKPU\Eksamen\Code_Presentations\03_DOTNET\CprDLLShared\obj\Debug\netcoreapp3.1\CprDLLShared.pdb
+C:\Users\FlemmingBlaabjerg\Documents\AB_Skole\ITKPU\Eksamen\Code_Presentations\03_DOTNET\CprDLLShared\bin\Debug\netcoreapp3.1\CprDLLShared.deps.json
+C:\Users\FlemmingBlaabjerg\Documents\AB_Skole\ITKPU\Eksamen\Code_Presentations\03_DOTNET\CprDLLShared\bin\Debug\netcoreapp3.1\CprDLLShared.dll
+C:\Users\FlemmingBlaabjerg\Documents\AB_Skole\ITKPU\Eksamen\Code_Presentations\03_DOTNET\CprDLLShared\bin\Debug\netcoreapp3.1\CprDLLShared.pdb

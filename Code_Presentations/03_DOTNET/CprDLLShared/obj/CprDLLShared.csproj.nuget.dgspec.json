@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abdul\\Documents\\UNI\\KPU\\KPUEKSAMEN\\Spoergsmaal_TRE\\CprDLLShared\\CprDLLShared.csproj": {}
+    "C:\\Users\\FlemmingBlaabjerg\\Documents\\AB_Skole\\ITKPU\\Eksamen\\Code_Presentations\\03_DOTNET\\CprDLLShared\\CprDLLShared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abdul\\Documents\\UNI\\KPU\\KPUEKSAMEN\\Spoergsmaal_TRE\\CprDLLShared\\CprDLLShared.csproj": {
+    "C:\\Users\\FlemmingBlaabjerg\\Documents\\AB_Skole\\ITKPU\\Eksamen\\Code_Presentations\\03_DOTNET\\CprDLLShared\\CprDLLShared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abdul\\Documents\\UNI\\KPU\\KPUEKSAMEN\\Spoergsmaal_TRE\\CprDLLShared\\CprDLLShared.csproj",
+        "projectUniqueName": "C:\\Users\\FlemmingBlaabjerg\\Documents\\AB_Skole\\ITKPU\\Eksamen\\Code_Presentations\\03_DOTNET\\CprDLLShared\\CprDLLShared.csproj",
         "projectName": "CprDLLShared",
-        "projectPath": "C:\\Users\\abdul\\Documents\\UNI\\KPU\\KPUEKSAMEN\\Spoergsmaal_TRE\\CprDLLShared\\CprDLLShared.csproj",
-        "packagesPath": "C:\\Users\\abdul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abdul\\Documents\\UNI\\KPU\\KPUEKSAMEN\\Spoergsmaal_TRE\\CprDLLShared\\obj\\",
+        "projectPath": "C:\\Users\\FlemmingBlaabjerg\\Documents\\AB_Skole\\ITKPU\\Eksamen\\Code_Presentations\\03_DOTNET\\CprDLLShared\\CprDLLShared.csproj",
+        "packagesPath": "C:\\Users\\FlemmingBlaabjerg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FlemmingBlaabjerg\\Documents\\AB_Skole\\ITKPU\\Eksamen\\Code_Presentations\\03_DOTNET\\CprDLLShared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\abdul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\FlemmingBlaabjerg\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -56,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
